@@ -1,0 +1,1236 @@
+
+
+
+01-20-2014 15:14:45 - Processing new search...
+
+Search parameters...
+Search population size: 200
+Max number of generations: 50
+New random population: 1%
+Population mutation rate: 0.1%
+Population mutation range: 0.25
+Genetic crossover rate: 70%
+Training samples per ESN: 25%
+
+Generating initial population...
+Fitness mean: 0.135853
+
+Most Fit Echo State Network Metrics...
+Total reservoir nodes: 25
+Total network edges: 1153
+Total network weight: 2.66478
+Total network states: 1
+Training accuracy: 0.191781
+Validation accuracy: 0.226667
+Mean edge weight value: 0.00426364
+Network capacity: -1.83303e+012
+Network entropy: -4.58257e+013
+Network memory: 0.99016
+Network sensitivity: 0.536368
+Network connectivity: 0.20533
+Scaling value (alpha): 0.7599
+Node activation distribution: 0.642935  0.71571 0.574716 0.381123 0.490473 0.479703 0.167043 0.843182 0.121436 0.362419 0.656255 0.623476 0.506945 0.906939 0.696101 0.547345 0.498857  0.31471 0.655602 0.704889 0.662313 0.181469 0.742346 0.634957 0.298268
+
+Generating population epoch 1...
+Epoch fitness mean: 0.140293
+
+Most Fit Echo State Network Metrics...
+Total reservoir nodes: 25
+Total network edges: 1160
+Total network weight: -0.00574899
+Total network states: 1
+Training accuracy: 0.19863
+Validation accuracy: 0.205333
+Mean edge weight value: -9.19838e-006
+Network capacity: -3.14994e-038
+Network entropy: -7.87484e-037
+Network memory: 0.92992
+Network sensitivity: 0.499826
+Network connectivity: 0.216352
+Scaling value (alpha): 0.709493
+Node activation distribution: 0.641534 0.337967 0.509373 0.431974   0.2855 0.340872 0.240201 0.889952 0.295233 0.639862 0.224423 0.384048 0.471122 0.797987 0.806714 0.572293 0.370702 0.551786 0.653066 0.911978 0.441545 0.191319 0.363399 0.826302   0.3165
+
+Generating population epoch 2...
+Epoch fitness mean: 0.142047
+
+Most Fit Echo State Network Metrics...
+Total reservoir nodes: 25
+Total network edges: 1166
+Total network weight: 11.2955
+Total network states: 1
+Training accuracy: 0.184932
+Validation accuracy: 0.192
+Mean edge weight value: 0.0180728
+Network capacity: -9.16457e-038
+Network entropy: -2.29114e-036
+Network memory: 0.129452
+Network sensitivity: 0.48082
+Network connectivity: 0.226665
+Scaling value (alpha): 1.10001
+Node activation distribution:   0.77647  0.500631   0.55833  0.707621  0.394229  0.607112  0.669635  0.747893  0.365806  0.451349  0.716091  0.819415  0.672026  0.565153  0.381676 0.0775222  0.477659  0.191037   0.12225  0.168054  0.565363  0.307707  0.788603  0.153019  0.235837
+
+Generating population epoch 3...
+Epoch fitness mean: 0.14214
+
+Most Fit Echo State Network Metrics...
+Total reservoir nodes: 25
+Total network edges: 1559
+Total network weight: 0.29493
+Total network states: 1
+Training accuracy: 0.207763
+Validation accuracy: 0.216
+Mean edge weight value: 0.000471888
+Network capacity: -1.77333e+012
+Network entropy: -4.43333e+013
+Network memory: 1.54452
+Network sensitivity: 0.518553
+Network connectivity: 0.854962
+Scaling value (alpha): 0.0424874
+Node activation distribution: 0.672203 0.308622 0.461686 0.241932 0.734927 0.791429 0.819032 0.819406 0.718234 0.538967 0.645053 0.610598 0.467958 0.357734 0.363956 0.495157 0.232184 0.499155 0.307878 0.746404 0.426479  0.20192 0.431239  0.67634 0.395345
+
+Generating population epoch 4...
+
+
+
+01-20-2014 15:15:51 - Processing new search...
+
+Search parameters...
+Search population size: 200
+Max number of generations: 50
+New random population: 1%
+Population mutation rate: 0.1%
+Population mutation range: 0.25
+Genetic crossover rate: 70%
+Training samples per ESN: 25%
+
+Generating initial population...
+Fitness mean: 0.60154
+
+Most Fit Echo State Network Metrics...
+Total reservoir nodes: 25
+Total network edges: 1309
+Total network weight: 3.37029
+Total network states: 1
+Training accuracy: 0.797945
+Validation accuracy: 0.758667
+Mean edge weight value: 0.00539246
+Network capacity: -1.83303e+012
+Network entropy: -4.58257e+013
+Network memory: 0.133205
+Network sensitivity: 0.559883
+Network connectivity: 0.351901
+Scaling value (alpha): 0.878579
+Node activation distribution:  0.61801 0.215267 0.320382 0.468093 0.581845 0.896754 0.359184 0.885715 0.910104   0.1168 0.552155  0.49585 0.265496 0.872231 0.383016 0.841898 0.921311 0.494234 0.390334 0.579419 0.534504 0.478392 0.773232 0.687777 0.355075
+
+Generating population epoch 1...
+Epoch fitness mean: 0.602913
+
+Most Fit Echo State Network Metrics...
+Total reservoir nodes: 25
+Total network edges: 1209
+Total network weight: 3.18553
+Total network states: 1
+Training accuracy: 0.780251
+Validation accuracy: 0.761333
+Mean edge weight value: 0.00509684
+Network capacity: -1.77333e+012
+Network entropy: -4.43333e+013
+Network memory: 0.676205
+Network sensitivity: 0.568068
+Network connectivity: 0.191882
+Scaling value (alpha): 1.05663
+Node activation distribution: 0.471421 0.123752 0.151097 0.468803 0.698884 0.532048 0.721847 0.527002 0.939966 0.567497 0.414806 0.265056 0.243322 0.921951 0.238877 0.783212 0.882005 0.775089 0.525906 0.632906 0.489945 0.838689 0.837172 0.380992 0.769447
+
+Generating population epoch 2...
+Epoch fitness mean: 0.62984
+
+Most Fit Echo State Network Metrics...
+Total reservoir nodes: 25
+Total network edges: 1392
+Total network weight: 5.35939
+Total network states: 1
+Training accuracy: 0.795091
+Validation accuracy: 0.824
+Mean edge weight value: 0.00857503
+Network capacity: -1.77333e+012
+Network entropy: -4.43333e+013
+Network memory: 0.980483
+Network sensitivity: 0.461592
+Network connectivity: 0.484065
+Scaling value (alpha): 0.713944
+Node activation distribution:  0.368381  0.200658  0.658452  0.580826  0.503632  0.663683  0.286713  0.321956  0.619715  0.661386  0.492043  0.375597  0.496402   0.63004  0.205769   0.60813 0.0471362   0.21066  0.821968  0.730573 0.0660377  0.452576 0.0651369  0.618185  0.854148
+
+Generating population epoch 3...
+Epoch fitness mean: 0.632047
+
+Most Fit Echo State Network Metrics...
+Total reservoir nodes: 25
+Total network edges: 1397
+Total network weight: -4.83628
+Total network states: 1
+Training accuracy: 0.791667
+Validation accuracy: 0.772
+Mean edge weight value: -0.00773805
+Network capacity: -9.21458e-038
+Network entropy: -2.30364e-036
+Network memory: 0.680913
+Network sensitivity: 0.460396
+Network connectivity: 0.492109
+Scaling value (alpha): 1.19529
+Node activation distribution:  0.333223 0.0557389  0.856642  0.386151   0.32249   0.50591  0.342912  0.194942  0.595173  0.880615  0.704295  0.298591  0.282684  0.836394  0.287757   0.54069 0.0957945  0.428036  0.733022  0.804636 0.0873115  0.533414  0.184426  0.291514  0.927549
+
+Generating population epoch 4...
+Epoch fitness mean: 0.632873
+
+Most Fit Echo State Network Metrics...
+Total reservoir nodes: 25
+Total network edges: 1302
+Total network weight: -4.83628
+Total network states: 1
+Training accuracy: 0.807648
+Validation accuracy: 0.789333
+Mean edge weight value: -0.00773804
+Network capacity: -4.77145e-038
+Network entropy: -1.19286e-036
+Network memory: 0.725134
+Network sensitivity: 0.570242
+Network connectivity: 0.339327
+Scaling value (alpha): 1.19529
+Node activation distribution:  0.668712   0.21887 0.0766883  0.475991  0.776695  0.230178  0.679014  0.398019  0.957467  0.590676  0.658225  0.355702  0.661756  0.892299  0.814402  0.213047  0.790489  0.764509  0.676227   0.84243  0.435602  0.447234  0.845154   0.31252  0.474144
+
+Generating population epoch 5...
+Epoch fitness mean: 0.645273
+
+Most Fit Echo State Network Metrics...
+Total reservoir nodes: 25
+Total network edges: 1093
+Total network weight: -2.81951
+Total network states: 1
+Training accuracy: 0.760845
+Validation accuracy: 0.793333
+Mean edge weight value: -0.00451122
+Network capacity: -1.19892e-038
+Network entropy: -2.99729e-037
+Network memory: 0.715645
+Network sensitivity: 0.515887
+Network connectivity: 0.00522028
+Scaling value (alpha): 1.12021
+Node activation distribution: 0.356228 0.361311 0.357823 0.342163 0.276887 0.380107 0.498923  0.72295 0.686413 0.453016 0.183912 0.692336 0.550083 0.391933  0.61229 0.645558 0.712925 0.924065 0.291944  0.83201 0.206138 0.826294 0.598457 0.175114 0.818302
+
+Generating population epoch 6...
+Epoch fitness mean: 0.64682
+
+Most Fit Echo State Network Metrics...
+Total reservoir nodes: 25
+Total network edges: 1164
+Total network weight: 1.15556
+Total network states: 1
+Training accuracy: 0.847603
+Validation accuracy: 0.850667
+Mean edge weight value: 0.0018489
+Network capacity: -3.53059e-039
+Network entropy: -8.82647e-038
+Network memory: 0.725897
+Network sensitivity: 0.53261
+Network connectivity: 0.118954
+Scaling value (alpha): 1.12021
+Node activation distribution:  0.76908 0.341957 0.106983  0.17248 0.905009 0.600376 0.679412 0.640123 0.913446 0.375663 0.433784 0.765225 0.410537 0.901919 0.660796  0.06998 0.661738 0.624818  0.34257 0.712317 0.397316 0.482282 0.841637 0.385221 0.120585
+
+Generating population epoch 7...
+Epoch fitness mean: 0.653114
+
+Most Fit Echo State Network Metrics...
+Total reservoir nodes: 25
+Total network edges: 1258
+Total network weight: 8.26469
+Total network states: 1
+Training accuracy: 0.790525
+Validation accuracy: 0.796
+Mean edge weight value: 0.0132235
+Network capacity: -1.77333e+012
+Network entropy: -4.43333e+013
+Network memory: 0.777927
+Network sensitivity: 0.542149
+Network connectivity: 0.269292
+Scaling value (alpha): 0.854807
+Node activation distribution: 0.578671 0.245959 0.560252 0.585749 0.707098 0.876216 0.739769 0.441833 0.659381   0.6603 0.743245 0.640815 0.441926 0.553708  0.24103 0.752323 0.267622 0.338037 0.818226 0.676696 0.154941 0.299368 0.263393 0.602746 0.704413
+
+Generating population epoch 8...
+Epoch fitness mean: 0.63486
+
+Most Fit Echo State Network Metrics...
+Total reservoir nodes: 25
+Total network edges: 1464
+Total network weight: -10.0642
+Total network states: 1
+Training accuracy: 0.816781
+Validation accuracy: 0.812
+Mean edge weight value: -0.0161028
+Network capacity: -1.77333e+012
+Network entropy: -4.43333e+013
+Network memory: 0.840154
+Network sensitivity: 0.480888
+Network connectivity: 0.599172
+Scaling value (alpha): 1.12021
+Node activation distribution:  0.570894  0.235442  0.445761  0.530882  0.746729  0.394927   0.48738  0.301167   0.58272   0.29357   0.12734  0.607396  0.419243  0.806534  0.650478  0.635384  0.769141  0.367975 0.0477042  0.597338  0.145784  0.868092  0.640432   0.10864  0.641238
+
+Generating population epoch 9...
+Epoch fitness mean: 0.6494
+
+Most Fit Echo State Network Metrics...
+Total reservoir nodes: 25
+Total network edges: 1392
+Total network weight: -11.5445
+Total network states: 1
+Training accuracy: 0.812215
+Validation accuracy: 0.812
+Mean edge weight value: -0.0184713
+Network capacity: -1.77333e+012
+Network entropy: -4.43333e+013
+Network memory: 0.811872
+Network sensitivity: 0.479867
+Network connectivity: 0.484065
+Scaling value (alpha): 1.12021
+Node activation distribution:  0.682842  0.334238   0.54308  0.427689  0.692579  0.414381  0.442413  0.308902  0.623983  0.336774   0.18165   0.67246  0.354627  0.615094  0.680868  0.617007  0.705892  0.391082 0.0475938  0.631801  0.201391  0.845944  0.542528  0.105536  0.596323
+
+Generating population epoch 10...
+Epoch fitness mean: 0.657967
+
+Most Fit Echo State Network Metrics...
+Total reservoir nodes: 25
+Total network edges: 1397
+Total network weight: -7.97139
+Total network states: 1
+Training accuracy: 0.784817
+Validation accuracy: 0.812
+Mean edge weight value: -0.0127542
+Network capacity: -1.77333e+012
+Network entropy: -4.43333e+013
+Network memory: 1.10557
+Network sensitivity: 0.5317
+Network connectivity: 0.492109
+Scaling value (alpha): 0.666625
+Node activation distribution: 0.590847 0.777511 0.368535 0.149816  0.44895 0.897476 0.598041 0.467309 0.421087 0.489816 0.592682 0.518652 0.539849 0.410408 0.862639 0.647294 0.640012 0.654863 0.113449 0.952908 0.437159 0.774606 0.404771 0.115362 0.418468
+
+Generating population epoch 11...
+Epoch fitness mean: 0.644507
+
+Most Fit Echo State Network Metrics...
+Total reservoir nodes: 25
+Total network edges: 1106
+Total network weight: 0.453148
+Total network states: 1
+Training accuracy: 0.775685
+Validation accuracy: 0.794667
+Mean edge weight value: 0.000725037
+Network capacity: -1.77333e+012
+Network entropy: -4.43333e+013
+Network memory: 0.780161
+Network sensitivity: 0.504725
+Network connectivity: 0.0261281
+Scaling value (alpha): 1.12021
+Node activation distribution: 0.0718739 0.423223 0.192807 0.390785  0.68205 0.526014 0.657673 0.366186 0.580655 0.531584 0.834438 0.417604   0.7156 0.394303 0.141594 0.692138 0.217993 0.563362  0.33577 0.652925 0.863309 0.759596 0.366212 0.845631 0.394792
+
+Generating population epoch 12...
+Epoch fitness mean: 0.656753
+
+Most Fit Echo State Network Metrics...
+Total reservoir nodes: 25
+Total network edges: 1700
+Total network weight: 0.418854
+Total network states: 1
+Training accuracy: 0.820205
+Validation accuracy: 0.830667
+Mean edge weight value: 0.000670166
+Network capacity: -4.74238e+030
+Network entropy: -1.1856e+032
+Network memory: 0.70606
+Network sensitivity: 0.484627
+Network connectivity: 0.976461
+Scaling value (alpha): 1.19704
+Node activation distribution: 0.597526 0.706975 0.481369  0.13346 0.728685  0.64931 0.227689 0.409734  0.44888 0.451177 0.425305 0.867856 0.361716  0.50662 0.797488 0.546949 0.543048 0.486257 0.149476 0.857087 0.789713 0.295487 0.240701 0.132794 0.280361
+
+Generating population epoch 13...
+Epoch fitness mean: 0.654746
+
+Most Fit Echo State Network Metrics...
+Total reservoir nodes: 25
+Total network edges: 1512
+Total network weight: 0.731323
+Total network states: 1
+Training accuracy: 0.776256
+Validation accuracy: 0.774667
+Mean edge weight value: 0.00117012
+Network capacity: -1.77333e+012
+Network entropy: -4.43333e+013
+Network memory: 0.115133
+Network sensitivity: 0.521111
+Network connectivity: 0.676794
+Scaling value (alpha): 0.723606
+Node activation distribution: 0.468779 0.197819 0.199187 0.503135 0.434673 0.604586 0.472178 0.239505   0.7797 0.530416 0.571539 0.698018 0.282841 0.942353 0.217562 0.694922 0.716993 0.810879 0.663396 0.319995 0.311984 0.301675 0.810442 0.593902 0.661298
+
+Generating population epoch 14...
+Epoch fitness mean: 0.66638
+
+Most Fit Echo State Network Metrics...
+Total reservoir nodes: 25
+Total network edges: 1598
+Total network weight: -2.92199
+Total network states: 1
+Training accuracy: 0.820205
+Validation accuracy: 0.814667
+Mean edge weight value: -0.00467519
+Network capacity: -1.77333e+012
+Network entropy: -4.43333e+013
+Network memory: 0.577963
+Network sensitivity: 0.485691
+Network connectivity: 0.81338
+Scaling value (alpha): 0.854807
+Node activation distribution:   0.5976 0.427754  0.29237 0.109456 0.402902 0.770154 0.842085 0.782785 0.660813   0.5775 0.663478 0.566152 0.450665 0.222889 0.770989 0.458596 0.526851 0.430431 0.265938 0.309038 0.443875 0.362706 0.533401 0.261565 0.412274
+
+Generating population epoch 15...
+Epoch fitness mean: 0.673193
+
+Most Fit Echo State Network Metrics...
+Total reservoir nodes: 25
+Total network edges: 1283
+Total network weight: -2.57808
+Total network states: 1
+Training accuracy: 0.811073
+Validation accuracy: 0.846667
+Mean edge weight value: -0.00412493
+Network capacity: -1.77333e+012
+Network entropy: -4.43333e+013
+Network memory: 0.774803
+Network sensitivity: 0.530049
+Network connectivity: 0.30887
+Scaling value (alpha): 1.12296
+Node activation distribution:  0.40706 0.690428 0.708842 0.129278 0.324815 0.370869 0.503239 0.494693 0.786208 0.278969 0.681212 0.768356 0.396528 0.853772 0.534561 0.766707  0.74011 0.786148 0.267152 0.668326 0.410409 0.472133 0.602811 0.145369 0.463229
+
+Generating population epoch 16...
+Epoch fitness mean: 0.65288
+
+Most Fit Echo State Network Metrics...
+Total reservoir nodes: 25
+Total network edges: 1283
+Total network weight: 8.35384
+Total network states: 1
+Training accuracy: 0.833333
+Validation accuracy: 0.814667
+Mean edge weight value: 0.0133661
+Network capacity: -1.77333e+012
+Network entropy: -4.43333e+013
+Network memory: 0.13068
+Network sensitivity: 0.567741
+Network connectivity: 0.30887
+Scaling value (alpha): 1.12021
+Node activation distribution: 0.630006 0.456433 0.868639 0.181132   0.5275  0.67886 0.421094 0.698111  0.53749 0.423934 0.835139 0.866335 0.615643 0.604179 0.693303 0.862489 0.584827 0.243942 0.256231 0.774578 0.445761  0.66163 0.689668 0.314868 0.321729
+
+Generating population epoch 17...
+Epoch fitness mean: 0.680587
+
+Most Fit Echo State Network Metrics...
+Total reservoir nodes: 25
+Total network edges: 1700
+Total network weight: 3.41939
+Total network states: 1
+Training accuracy: 0.828196
+Validation accuracy: 0.828
+Mean edge weight value: 0.00547103
+Network capacity: -1.77333e+012
+Network entropy: -4.43333e+013
+Network memory: 0.76272
+Network sensitivity: 0.533799
+Network connectivity: 0.976461
+Scaling value (alpha): 0.878579
+Node activation distribution:  0.746133  0.900225  0.674908   0.28621  0.366223  0.957528  0.740042  0.133167  0.300649  0.653121  0.170487  0.570479  0.745716 0.0730941  0.771508  0.732249   0.77567  0.819269  0.135241  0.796265  0.658731  0.230358   0.69329  0.168433  0.245986
+
+Generating population epoch 18...
+Epoch fitness mean: 0.68142
+
+Most Fit Echo State Network Metrics...
+Total reservoir nodes: 25
+Total network edges: 1598
+Total network weight: -0.937989
+Total network states: 1
+Training accuracy: 0.811644
+Validation accuracy: 0.798667
+Mean edge weight value: -0.00150078
+Network capacity: -1.77333e+012
+Network entropy: -4.43333e+013
+Network memory: 0.128412
+Network sensitivity: 0.495128
+Network connectivity: 0.81338
+Scaling value (alpha): 1.12021
+Node activation distribution: 0.630715 0.419101 0.798479  0.44766 0.139814 0.851033 0.576469  0.45435 0.343921 0.350314 0.335064 0.367877 0.442485 0.560695 0.264748 0.323402 0.450499 0.367725 0.874904 0.758052 0.255203 0.453021  0.39283 0.696276 0.823564
+
+Generating population epoch 19...
+Epoch fitness mean: 0.66898
+
+Most Fit Echo State Network Metrics...
+Total reservoir nodes: 25
+Total network edges: 1598
+Total network weight: -9.42154
+Total network states: 1
+Training accuracy: 0.805936
+Validation accuracy: 0.805333
+Mean edge weight value: -0.0150745
+Network capacity: -1.02842e-038
+Network entropy: -2.57106e-037
+Network memory: 0.55016
+Network sensitivity: 0.475733
+Network connectivity: 0.81338
+Scaling value (alpha): 1.12021
+Node activation distribution:  0.717508  0.721462  0.581088  0.444285  0.387413  0.714902  0.590753 0.0930804  0.301466  0.671753  0.191521  0.914391  0.883576     0.255  0.241562  0.856146 0.0519955  0.621726  0.298087   0.32353  0.275884  0.473288  0.555626  0.274261  0.453023
+
+Generating population epoch 20...
+Epoch fitness mean: 0.682753
+
+Most Fit Echo State Network Metrics...
+Total reservoir nodes: 25
+Total network edges: 1666
+Total network weight: 0.483409
+Total network states: 1
+Training accuracy: 0.809361
+Validation accuracy: 0.824
+Mean edge weight value: 0.000773454
+Network capacity: -1.77333e+012
+Network entropy: -4.43333e+013
+Network memory: 0.813434
+Network sensitivity: 0.563647
+Network connectivity: 0.923166
+Scaling value (alpha): 1.12021
+Node activation distribution: 0.927603 0.775302 0.614558 0.255116 0.385581 0.869711 0.315754 0.298381 0.930361 0.889061 0.689132 0.581894 0.210458 0.821612 0.413497 0.796519 0.283879 0.299638 0.784833 0.689788  0.31758 0.133517 0.800567 0.481047 0.525797
+
+Generating population epoch 21...
+Epoch fitness mean: 0.675233
+
+Most Fit Echo State Network Metrics...
+Total reservoir nodes: 25
+Total network edges: 1283
+Total network weight: -20.4517
+Total network states: 1
+Training accuracy: 0.791667
+Validation accuracy: 0.806667
+Mean edge weight value: -0.0327227
+Network capacity: -1.77333e+012
+Network entropy: -4.43333e+013
+Network memory: 0.638129
+Network sensitivity: 0.488409
+Network connectivity: 0.30887
+Scaling value (alpha): 1.19704
+Node activation distribution:  0.852323  0.413653  0.332397  0.492732  0.395914  0.439919  0.325833 0.0946988  0.515564   0.63207   0.81321  0.934765  0.639114  0.715285  0.427412  0.803226  0.167045  0.560687  0.898002  0.307458  0.129783  0.320379  0.390002  0.242627  0.366138
+
+Generating population epoch 22...
+Epoch fitness mean: 0.678167
+
+Most Fit Echo State Network Metrics...
+Total reservoir nodes: 25
+Total network edges: 1283
+Total network weight: -22.7205
+Total network states: 1
+Training accuracy: 0.827055
+Validation accuracy: 0.832
+Mean edge weight value: -0.0363528
+Network capacity: -6.57063e-039
+Network entropy: -1.64266e-037
+Network memory: 0.646311
+Network sensitivity: 0.430956
+Network connectivity: 0.30887
+Scaling value (alpha): 1.19704
+Node activation distribution:   0.280687    0.55785   0.258205   0.725891   0.412208   0.157349   0.339641 0.00771907   0.120256   0.510023   0.876884    0.99386   0.916201    0.39968   0.546648   0.970107  0.0261117   0.772426   0.764787   0.191312   0.255156    0.27218  0.0563306    0.16998   0.192412
+
+Generating population epoch 23...
+Epoch fitness mean: 0.673193
+
+Most Fit Echo State Network Metrics...
+Total reservoir nodes: 25
+Total network edges: 1278
+Total network weight: 4.31007
+Total network states: 1
+Training accuracy: 0.80879
+Validation accuracy: 0.805333
+Mean edge weight value: 0.00689611
+Network capacity: -1.77333e+012
+Network entropy: -4.43333e+013
+Network memory: 0.706925
+Network sensitivity: 0.546531
+Network connectivity: 0.30137
+Scaling value (alpha): 0.854807
+Node activation distribution: 0.593936 0.959531 0.325191 0.825633 0.597727 0.763032 0.560933 0.115417 0.752202 0.449093 0.684784 0.535886   0.3736 0.741181 0.205286 0.314431 0.706742 0.314659 0.420045 0.736964 0.446797 0.325191 0.787713  0.41655 0.710741
+
+Generating population epoch 24...
+Epoch fitness mean: 0.677907
+
+Most Fit Echo State Network Metrics...
+Total reservoir nodes: 25
+Total network edges: 1666
+Total network weight: -8.77894
+Total network states: 1
+Training accuracy: 0.871005
+Validation accuracy: 0.86
+Mean edge weight value: -0.0140463
+Network capacity: -1.77333e+012
+Network entropy: -4.43333e+013
+Network memory: 0.115371
+Network sensitivity: 0.485607
+Network connectivity: 0.923166
+Scaling value (alpha): 0.878579
+Node activation distribution:  0.715447  0.004531 0.0515351  0.944132  0.469949  0.967266 0.0312309  0.636566  0.991535 0.0584979  0.534731  0.548494  0.427635  0.534231  0.201979  0.997706  0.547857  0.722417  0.800008  0.204366  0.134561 0.0510573  0.637748  0.793008  0.133691
+
+Generating population epoch 25...
+Epoch fitness mean: 0.680353
+
+Most Fit Echo State Network Metrics...
+Total reservoir nodes: 25
+Total network edges: 1283
+Total network weight: -17.5914
+Total network states: 1
+Training accuracy: 0.802511
+Validation accuracy: 0.792
+Mean edge weight value: -0.0281462
+Network capacity: -1.77333e+012
+Network entropy: -4.43333e+013
+Network memory: 0.114196
+Network sensitivity: 0.427412
+Network connectivity: 0.30887
+Scaling value (alpha): 1.12021
+Node activation distribution: 0.0997473  0.270167  0.287246  0.601798    0.8188 0.0638741  0.462071 0.0333234 0.0754035  0.102647  0.915409  0.879719  0.909173   0.47425  0.613297  0.823678  0.217649  0.592027  0.614305  0.282434  0.249036  0.813079   0.11524 0.0864084  0.284509
+
+Generating population epoch 26...
+Epoch fitness mean: 0.693047
+
+Most Fit Echo State Network Metrics...
+Total reservoir nodes: 25
+Total network edges: 1598
+Total network weight: -11.3096
+Total network states: 1
+Training accuracy: 0.818493
+Validation accuracy: 0.828
+Mean edge weight value: -0.0180953
+Network capacity: -8.41622e-038
+Network entropy: -2.10406e-036
+Network memory: 0.115439
+Network sensitivity: 0.50086
+Network connectivity: 0.81338
+Scaling value (alpha): 1.12021
+Node activation distribution:     0.103 0.0708459 0.0537964  0.963021 0.0611535  0.895783  0.266903  0.123332   0.73789  0.121997  0.693834  0.854902  0.689599  0.847895  0.397266   0.93762  0.269318  0.270821  0.985911  0.707458  0.255271  0.410075  0.729022  0.534716   0.54006
+
+Generating population epoch 27...
+Epoch fitness mean: 0.697334
+
+Most Fit Echo State Network Metrics...
+Total reservoir nodes: 25
+Total network edges: 1302
+Total network weight: 0.424068
+Total network states: 1
+Training accuracy: 0.832192
+Validation accuracy: 0.821333
+Mean edge weight value: 0.000678509
+Network capacity: -1.77333e+012
+Network entropy: -4.43333e+013
+Network memory: 0.646716
+Network sensitivity: 0.471168
+Network connectivity: 0.339327
+Scaling value (alpha): 1.12021
+Node activation distribution:  0.766438  0.872198 0.0740992  0.722485  0.238851  0.658654  0.441082  0.117352   0.86648  0.197512  0.865194  0.527503  0.744089 0.0753981  0.304867  0.370811  0.228239  0.453818  0.896011  0.620733  0.410262  0.564646  0.386147  0.202423  0.173908
+
+Generating population epoch 28...
+Epoch fitness mean: 0.691753
+
+Most Fit Echo State Network Metrics...
+Total reservoir nodes: 25
+Total network edges: 1278
+Total network weight: 0.424066
+Total network states: 1
+Training accuracy: 0.834475
+Validation accuracy: 0.866667
+Mean edge weight value: 0.000678506
+Network capacity: -1.77333e+012
+Network entropy: -4.43333e+013
+Network memory: 0.746316
+Network sensitivity: 0.470395
+Network connectivity: 0.30137
+Scaling value (alpha): 1.12021
+Node activation distribution:  0.776796  0.872806 0.0741209   0.72385  0.236307  0.664081  0.444835  0.117138  0.863643  0.195932  0.863586  0.515593  0.730054 0.0745159  0.288651  0.389603  0.223174  0.456194  0.890601   0.61895   0.40912  0.564672  0.374629  0.209632  0.181388
+
+Generating population epoch 29...
+Epoch fitness mean: 0.7242
+
+Most Fit Echo State Network Metrics...
+Total reservoir nodes: 25
+Total network edges: 1338
+Total network weight: -15.8086
+Total network states: 1
+Training accuracy: 0.795091
+Validation accuracy: 0.830667
+Mean edge weight value: -0.0252937
+Network capacity: -1.77333e+012
+Network entropy: -4.43333e+013
+Network memory: 0.12003
+Network sensitivity: 0.431376
+Network connectivity: 0.3983
+Scaling value (alpha): 0.854807
+Node activation distribution:  0.324267  0.425794  0.567599  0.669058  0.510769  0.134461   0.18631 0.0136461  0.330276  0.314173  0.907795  0.699909  0.897394  0.385169  0.585564  0.751622 0.0844221  0.531553  0.593107  0.696688  0.111943  0.359114  0.112889 0.0617086  0.529172
+
+Generating population epoch 30...
+Epoch fitness mean: 0.70072
+
+Most Fit Echo State Network Metrics...
+Total reservoir nodes: 25
+Total network edges: 1149
+Total network weight: -5.92227
+Total network states: 1
+Training accuracy: 0.84532
+Validation accuracy: 0.824
+Mean edge weight value: -0.00947564
+Network capacity: -1.77333e+012
+Network entropy: -4.43333e+013
+Network memory: 0.750893
+Network sensitivity: 0.490913
+Network connectivity: 0.0944377
+Scaling value (alpha): 1.12021
+Node activation distribution:  0.482604  0.642643   0.23916  0.695063  0.630634  0.119138  0.276819  0.251768  0.583182  0.174404  0.915039  0.933414  0.920255  0.371546  0.674021  0.559369 0.0991091  0.703815  0.899886  0.808462 0.0903649  0.671234  0.101316  0.207372  0.222215
+
+Generating population epoch 31...
+Epoch fitness mean: 0.704033
+
+Most Fit Echo State Network Metrics...
+Total reservoir nodes: 25
+Total network edges: 1206
+Total network weight: -22.876
+Total network states: 1
+Training accuracy: 0.872717
+Validation accuracy: 0.88
+Mean edge weight value: -0.0366015
+Network capacity: -1.77333e+012
+Network entropy: -4.43333e+013
+Network memory: 0.396476
+Network sensitivity: 0.456059
+Network connectivity: 0.187129
+Scaling value (alpha): 0.971985
+Node activation distribution:  0.225565  0.320113  0.184879  0.473383  0.542384 0.0466279  0.598152 0.0598276  0.141687  0.555697  0.815276  0.782015  0.940415  0.337874  0.680776  0.935492  0.225171  0.625379  0.371785  0.480627  0.446326  0.596154   0.10633  0.382035  0.527505
+
+Generating population epoch 32...
+Epoch fitness mean: 0.70908
+
+Most Fit Echo State Network Metrics...
+Total reservoir nodes: 25
+Total network edges: 1149
+Total network weight: -19.8577
+Total network states: 1
+Training accuracy: 0.855594
+Validation accuracy: 0.869333
+Mean edge weight value: -0.0317724
+Network capacity: -1.77333e+012
+Network entropy: -4.43333e+013
+Network memory: 0.124271
+Network sensitivity: 0.452792
+Network connectivity: 0.0944377
+Scaling value (alpha): 1.12021
+Node activation distribution:  0.175637  0.603818 0.0666414  0.781459  0.402223 0.0405778  0.612634  0.039022  0.511512  0.175605  0.912489  0.984819  0.893418  0.603997  0.738428   0.59071 0.0319402   0.58791  0.955487  0.535439  0.268738  0.649896 0.0860083 0.0185515 0.0528282
+
+Generating population epoch 33...
+Epoch fitness mean: 0.696513
+
+Most Fit Echo State Network Metrics...
+Total reservoir nodes: 25
+Total network edges: 1345
+Total network weight: -32.3497
+Total network states: 1
+Training accuracy: 0.835046
+Validation accuracy: 0.825333
+Mean edge weight value: -0.0517594
+Network capacity: -1.77333e+012
+Network entropy: -4.43333e+013
+Network memory: 0.732591
+Network sensitivity: 0.419493
+Network connectivity: 0.408992
+Scaling value (alpha): 1.12021
+Node activation distribution:  0.294256  0.731137  0.412352  0.311014  0.723929  0.026648  0.533586  0.094678 0.0588781   0.35324  0.678943  0.924533  0.891209 0.0249574  0.987678  0.893941 0.0499688  0.299172  0.227143   0.27782  0.607869  0.169268  0.508537 0.0523909  0.354175
+
+Generating population epoch 34...
+Epoch fitness mean: 0.701193
+
+Most Fit Echo State Network Metrics...
+Total reservoir nodes: 25
+Total network edges: 1634
+Total network weight: -25.5939
+Total network states: 1
+Training accuracy: 0.840753
+Validation accuracy: 0.86
+Mean edge weight value: -0.0409502
+Network capacity: -1.77333e+012
+Network entropy: -4.43333e+013
+Network memory: 0.586201
+Network sensitivity: 0.475846
+Network connectivity: 0.871855
+Scaling value (alpha): 1.12021
+Node activation distribution:  0.604764  0.472952   0.34756  0.490191  0.490575  0.195332   0.17062 0.0416801  0.128729  0.199532  0.922836  0.935989  0.844737  0.175469  0.916364   0.54583 0.0282655  0.668406  0.923251  0.812315  0.489519  0.572005  0.348769 0.0837334  0.486726
+
+Generating population epoch 35...
+Epoch fitness mean: 0.691167
+
+Most Fit Echo State Network Metrics...
+Total reservoir nodes: 25
+Total network edges: 1345
+Total network weight: -18.4314
+Total network states: 1
+Training accuracy: 0.847032
+Validation accuracy: 0.825333
+Mean edge weight value: -0.0294902
+Network capacity: -1.77333e+012
+Network entropy: -4.43333e+013
+Network memory: 0.837735
+Network sensitivity: 0.434437
+Network connectivity: 0.408992
+Scaling value (alpha): 0.985413
+Node activation distribution:  0.294018  0.268667  0.540617  0.493991  0.828638 0.0705889  0.504582 0.0914263  0.080138  0.474944  0.558451  0.813575  0.940989 0.0818153  0.856272  0.537695 0.0468863  0.362776   0.61128  0.346072 0.0897513  0.640314  0.244928  0.220664   0.86184
+
+Generating population epoch 36...
+Epoch fitness mean: 0.6951
+
+Most Fit Echo State Network Metrics...
+Total reservoir nodes: 25
+Total network edges: 1634
+Total network weight: -17.8962
+Total network states: 1
+Training accuracy: 0.8379
+Validation accuracy: 0.844
+Mean edge weight value: -0.0286339
+Network capacity: -1.77333e+012
+Network entropy: -4.43333e+013
+Network memory: 0.746976
+Network sensitivity: 0.439759
+Network connectivity: 0.871855
+Scaling value (alpha): 1.12021
+Node activation distribution:   0.60207  0.500635  0.433255  0.628572  0.817484 0.0280811  0.305777 0.0278534  0.162185  0.283995  0.780441  0.909946  0.573867  0.275471  0.531753  0.880582  0.145389  0.490274  0.876472  0.823891 0.0894363  0.241974   0.29695  0.127412  0.160208
+
+Generating population epoch 37...
+Epoch fitness mean: 0.705587
+
+Most Fit Echo State Network Metrics...
+Total reservoir nodes: 25
+Total network edges: 1397
+Total network weight: -18.9181
+Total network states: 1
+Training accuracy: 0.843607
+Validation accuracy: 0.857333
+Mean edge weight value: -0.030269
+Network capacity: -1.77333e+012
+Network entropy: -4.43333e+013
+Network memory: 0.737959
+Network sensitivity: 0.476918
+Network connectivity: 0.492109
+Scaling value (alpha): 1.12021
+Node activation distribution:  0.526402  0.705391  0.194894  0.730855  0.761558 0.0216329  0.359453  0.105067  0.304665  0.490252  0.723122  0.965491  0.945859 0.0292545   0.86828  0.560775 0.0019799  0.437578  0.960588  0.542293  0.344857  0.438287  0.238839  0.015196  0.650387
+
+Generating population epoch 38...
+Epoch fitness mean: 0.683907
+
+Most Fit Echo State Network Metrics...
+Total reservoir nodes: 25
+Total network edges: 1149
+Total network weight: -25.2858
+Total network states: 1
+Training accuracy: 0.81621
+Validation accuracy: 0.802667
+Mean edge weight value: -0.0404573
+Network capacity: -1.42907e-037
+Network entropy: -3.57266e-036
+Network memory: 0.656034
+Network sensitivity: 0.466878
+Network connectivity: 0.0944377
+Scaling value (alpha): 1.12021
+Node activation distribution:  0.555029  0.663314  0.151825   0.52261  0.684246 0.0415895  0.240556 0.0479358  0.512986  0.343262  0.781716  0.802355  0.953711 0.0125983  0.889457  0.700314 0.0347719  0.275417  0.969515  0.558587  0.435962  0.518554  0.236225 0.0213641  0.718041
+
+Generating population epoch 39...
+Epoch fitness mean: 0.707413
+
+Most Fit Echo State Network Metrics...
+Total reservoir nodes: 25
+Total network edges: 1678
+Total network weight: -5.95569
+Total network states: 1
+Training accuracy: 0.812785
+Validation accuracy: 0.818667
+Mean edge weight value: -0.0095291
+Network capacity: -1.77333e+012
+Network entropy: -4.43333e+013
+Network memory: 0.656283
+Network sensitivity: 0.450986
+Network connectivity: 0.940997
+Scaling value (alpha): 1.12021
+Node activation distribution: 0.310038 0.736455 0.316752 0.580104 0.599749 0.708638 0.179472  0.34392 0.361217 0.116648  0.63597 0.628315 0.290312 0.318863 0.618682 0.389025 0.902895  0.21492   0.3201 0.538475 0.476306 0.151262 0.780864 0.147518 0.608151
+
+Generating population epoch 40...
+Epoch fitness mean: 0.697007
+
+Most Fit Echo State Network Metrics...
+Total reservoir nodes: 25
+Total network edges: 1302
+Total network weight: -21.9261
+Total network states: 1
+Training accuracy: 0.832763
+Validation accuracy: 0.82
+Mean edge weight value: -0.0350818
+Network capacity: -5.9322e-035
+Network entropy: -1.48305e-033
+Network memory: 0.127883
+Network sensitivity: 0.423857
+Network connectivity: 0.339327
+Scaling value (alpha): 1.12021
+Node activation distribution:  0.557205  0.725651  0.132517  0.560705  0.650109 0.0932888  0.480912 0.0363639  0.645057  0.256265  0.794733  0.728394  0.939118 0.0841542  0.874538  0.802912 0.0942534  0.111037  0.682776   0.51708  0.291858  0.212626  0.156254 0.0288625  0.139762
+
+Generating population epoch 41...
+Epoch fitness mean: 0.707707
+
+Most Fit Echo State Network Metrics...
+Total reservoir nodes: 25
+Total network edges: 1302
+Total network weight: -14.3786
+Total network states: 1
+Training accuracy: 0.84589
+Validation accuracy: 0.832
+Mean edge weight value: -0.0230058
+Network capacity: -1.77333e+012
+Network entropy: -4.43333e+013
+Network memory: 0.771383
+Network sensitivity: 0.459186
+Network connectivity: 0.339327
+Scaling value (alpha): 1.12021
+Node activation distribution:    0.27041   0.480562   0.527973   0.872775   0.905141  0.0116231   0.684467 0.00246436   0.341227   0.585374   0.869076   0.964052   0.947087  0.0229971   0.951238   0.340365 0.00858201    0.15299   0.556795     0.2423    0.72382   0.660507   0.278267    0.02652  0.0530267
+
+Generating population epoch 42...
+Epoch fitness mean: 0.69738
+
+Most Fit Echo State Network Metrics...
+Total reservoir nodes: 25
+Total network edges: 1598
+Total network weight: -11.0536
+Total network states: 1
+Training accuracy: 0.79395
+Validation accuracy: 0.793333
+Mean edge weight value: -0.0176858
+Network capacity: -1.77333e+012
+Network entropy: -4.43333e+013
+Network memory: 0.679151
+Network sensitivity: 0.431859
+Network connectivity: 0.81338
+Scaling value (alpha): 1.12021
+Node activation distribution: 0.463686  0.19321 0.439083 0.364973  0.72584 0.278962 0.576803 0.168237 0.138318 0.195461 0.565721 0.609905 0.883654 0.367682 0.531655 0.196758 0.105863  0.39908 0.404608 0.689067 0.321273 0.277251  0.47302 0.597369 0.828983
+
+Generating population epoch 43...
+Epoch fitness mean: 0.716233
+
+Most Fit Echo State Network Metrics...
+Total reservoir nodes: 25
+Total network edges: 1149
+Total network weight: -17.2019
+Total network states: 1
+Training accuracy: 0.835046
+Validation accuracy: 0.806667
+Mean edge weight value: -0.027523
+Network capacity: -1.77333e+012
+Network entropy: -4.43333e+013
+Network memory: 0.828502
+Network sensitivity: 0.446685
+Network connectivity: 0.0944377
+Scaling value (alpha): 1.12021
+Node activation distribution:  0.340145  0.613066  0.414951  0.699337  0.567035   0.13297  0.219684 0.0641719   0.19141  0.248729  0.734616  0.962669  0.964984 0.0538022  0.701971  0.666489 0.0975918  0.703495  0.375744  0.915143  0.742697  0.422633 0.0945978  0.032816  0.206377
+
+Generating population epoch 44...
+Epoch fitness mean: 0.719406
+
+Most Fit Echo State Network Metrics...
+Total reservoir nodes: 25
+Total network edges: 1678
+Total network weight: -30.0018
+Total network states: 1
+Training accuracy: 0.84589
+Validation accuracy: 0.858667
+Mean edge weight value: -0.0480029
+Network capacity: -1.77333e+012
+Network entropy: -4.43333e+013
+Network memory: 0.113609
+Network sensitivity: 0.410908
+Network connectivity: 0.940997
+Scaling value (alpha): 1.12021
+Node activation distribution:  0.509563  0.579386  0.371607  0.649989  0.478224  0.374023  0.254986 0.0285744  0.144712  0.190432  0.934501  0.934682  0.952165 0.0740468  0.874176  0.760187 0.0468477  0.305332  0.564432  0.261035  0.728487  0.109279  0.044684 0.0143286 0.0870356
+
+Generating population epoch 45...
+Epoch fitness mean: 0.7044
+
+Most Fit Echo State Network Metrics...
+Total reservoir nodes: 25
+Total network edges: 1302
+Total network weight: -19.261
+Total network states: 1
+Training accuracy: 0.815068
+Validation accuracy: 0.82
+Mean edge weight value: -0.0308177
+Network capacity: -1.77333e+012
+Network entropy: -4.43333e+013
+Network memory: 0.72448
+Network sensitivity: 0.516276
+Network connectivity: 0.339327
+Scaling value (alpha): 1.12021
+Node activation distribution:  0.768273  0.379365  0.086473  0.342241  0.774774  0.348614  0.590662 0.0872206  0.274148  0.289191  0.641899  0.859686  0.841959 0.0956234   0.69319  0.711097 0.0367425  0.883625  0.813561    0.8867   0.71629  0.406833  0.440695  0.230358  0.707686
+
+Generating population epoch 46...
+Epoch fitness mean: 0.709227
+
+Most Fit Echo State Network Metrics...
+Total reservoir nodes: 25
+Total network edges: 1149
+Total network weight: -17.1111
+Total network states: 1
+Training accuracy: 0.847032
+Validation accuracy: 0.836
+Mean edge weight value: -0.0273777
+Network capacity: -1.77333e+012
+Network entropy: -4.43333e+013
+Network memory: 0.78544
+Network sensitivity: 0.423195
+Network connectivity: 0.0944377
+Scaling value (alpha): 1.12021
+Node activation distribution:  0.499193  0.492613  0.519942   0.28596  0.708821   0.10622  0.195803  0.215891  0.028243  0.203345  0.614303    0.8906  0.909251 0.0254702  0.910965   0.51752 0.0923811  0.820903  0.319239  0.837091  0.153165  0.159978  0.374514  0.241235  0.457236
+
+Generating population epoch 47...
+Epoch fitness mean: 0.70986
+
+Most Fit Echo State Network Metrics...
+Total reservoir nodes: 25
+Total network edges: 1327
+Total network weight: -28.5917
+Total network states: 1
+Training accuracy: 0.839041
+Validation accuracy: 0.846667
+Mean edge weight value: -0.0457468
+Network capacity: -8.65043e-038
+Network entropy: -2.16261e-036
+Network memory: 0.818999
+Network sensitivity: 0.465087
+Network connectivity: 0.37928
+Scaling value (alpha): 1.12296
+Node activation distribution:  0.333573  0.302392  0.605439  0.232704  0.907319 0.0105086  0.210856  0.030168 0.0069085  0.564352  0.567537  0.835914  0.970505 0.0160526  0.951516  0.924232 0.0602208  0.607982   0.79461  0.518831  0.068085  0.293898  0.576442  0.322264  0.914872
+
+Generating population epoch 48...
+Epoch fitness mean: 0.715227
+
+Most Fit Echo State Network Metrics...
+Total reservoir nodes: 25
+Total network edges: 1149
+Total network weight: -16.7917
+Total network states: 1
+Training accuracy: 0.81621
+Validation accuracy: 0.841333
+Mean edge weight value: -0.0268666
+Network capacity: -1.77333e+012
+Network entropy: -4.43333e+013
+Network memory: 0.724565
+Network sensitivity: 0.404739
+Network connectivity: 0.0944377
+Scaling value (alpha): 1.12021
+Node activation distribution:   0.252973   0.344041   0.218076   0.502213   0.764163   0.116192   0.100396 0.00969105   0.103217   0.100913    0.82622   0.686193   0.952713  0.0832534   0.930145   0.688141   0.352782   0.461912   0.830497   0.592795   0.164864  0.0584597   0.116759  0.0522846   0.809584
+
+Generating population epoch 49...
+Epoch fitness mean: 0.723253
+
+Most Fit Echo State Network Metrics...
+Total reservoir nodes: 25
+Total network edges: 1302
+Total network weight: -40.4556
+Total network states: 1
+Training accuracy: 0.848744
+Validation accuracy: 0.842667
+Mean edge weight value: -0.064729
+Network capacity: -1.77333e+012
+Network entropy: -4.43333e+013
+Network memory: 0.12775
+Network sensitivity: 0.437896
+Network connectivity: 0.339327
+Scaling value (alpha): 1.12021
+Node activation distribution:    0.150952    0.424796    0.607811    0.830491    0.945088 0.000466969    0.470038   0.0010928  0.00159362     0.15626    0.801663    0.995049    0.997872  0.00426654    0.997408    0.832011 0.000838877    0.618917    0.742132    0.515458    0.139698    0.363077   0.0308198   0.0207684    0.298831
+
+Generating population epoch 50...
+Epoch fitness mean: 0.745107
+
+Most Fit Echo State Network Metrics...
+Total reservoir nodes: 25
+Total network edges: 1149
+Total network weight: -22.8191
+Total network states: 1
+Training accuracy: 0.856164
+Validation accuracy: 0.870667
+Mean edge weight value: -0.0365105
+Network capacity: -1.77333e+012
+Network entropy: -4.43333e+013
+Network memory: 0.776742
+Network sensitivity: 0.489787
+Network connectivity: 0.0944377
+Scaling value (alpha): 1.12021
+Node activation distribution:  0.625816  0.831602  0.170115  0.516865  0.598289  0.263604  0.832573   0.37263  0.141643  0.102214  0.815473   0.93351  0.836932 0.0604304  0.900999  0.940563   0.12149  0.172729  0.706234  0.380947  0.159608  0.553553  0.675935 0.0646148  0.466293
+
+01-20-2014 15:22:05 - Search completed.
+Time elapsed 0:6:14
+
+
+
+
+01-13-2016 11:46:43 - Processing new search...
+
+Search parameters...
+Search population size: 200
+Max number of generations: 50
+New random population: 1%
+Population mutation rate: 0.1%
+Population mutation range: 0.25
+Genetic crossover rate: 70%
+Training samples per ESN: 25%
+
+Generating initial population...
+Fitness mean: 0.68544
+
+Most Fit Echo State Network Metrics...
+Total reservoir nodes: 20
+Total network edges: 865
+Total network weight: 177.074
+Total network states: 12
+Training accuracy: 0.840753
+Validation accuracy: 0.846667
+Mean edge weight value: 0.442684
+Network capacity: 6.44245e+007
+Network entropy: 1.07374e+008
+Network memory: 1.61035
+Network sensitivity: 0.57583
+Network connectivity: 0.0382702
+Scaling value (alpha): 1.06934
+Node activation distribution:     0.447612 1.12775e-006     0.149185     0.409426            1            1     0.501776  0.000469957     0.403994            1     0.818388     0.315992     0.440967     0.506961     0.676908     0.592622     0.836299     0.798524       0.8905     0.726973
+
+Generating population epoch 1...
+Epoch fitness mean: 0.709433
+
+Most Fit Echo State Network Metrics...
+Total reservoir nodes: 20
+Total network edges: 984
+Total network weight: 4.62531
+Total network states: 1
+Training accuracy: 0.827626
+Validation accuracy: 0.849333
+Mean edge weight value: 0.0115633
+Network capacity: 5.36871e+006
+Network entropy: 1.07374e+008
+Network memory: 0.612287
+Network sensitivity: 0.504974
+Network connectivity: 0.336119
+Scaling value (alpha): 1.01479
+Node activation distribution:  0.853365  0.247766  0.170389  0.541401  0.562969  0.721412  0.747664  0.484901   0.72833  0.147762  0.405078  0.479538  0.619191  0.964942  0.325813  0.851414  0.438431  0.273406  0.443431 0.0922752
+
+Generating population epoch 2...
+Epoch fitness mean: 0.725807
+
+Most Fit Echo State Network Metrics...
+Total reservoir nodes: 20
+Total network edges: 1150
+Total network weight: 8.7985
+Total network states: 1
+Training accuracy: 0.836187
+Validation accuracy: 0.856
+Mean edge weight value: 0.0219962
+Network capacity: 5.36871e+006
+Network entropy: 1.07374e+008
+Network memory: 0.450191
+Network sensitivity: 0.50938
+Network connectivity: 0.751961
+Scaling value (alpha): 1.14866
+Node activation distribution: 0.381102 0.691714 0.225491 0.757013 0.556597 0.658255 0.527808 0.469505 0.463713 0.256074 0.225635 0.338306 0.641869 0.456741 0.695943 0.574391 0.633551 0.270378 0.564383 0.799129
+
+Generating population epoch 3...
+Epoch fitness mean: 0.691
+
+Most Fit Echo State Network Metrics...
+Total reservoir nodes: 20
+Total network edges: 988
+Total network weight: 6.1187
+Total network states: 1
+Training accuracy: 0.877854
+Validation accuracy: 0.857333
+Mean edge weight value: 0.0152967
+Network capacity: 5.36871e+006
+Network entropy: 1.07374e+008
+Network memory: 0.111613
+Network sensitivity: 0.528527
+Network connectivity: 0.347408
+Scaling value (alpha): 1.18633
+Node activation distribution:  0.353234  0.944104  0.335879  0.468648  0.973453  0.635671   0.16738 0.0781839  0.740751  0.927348  0.544766  0.288878  0.289698  0.746052  0.609599  0.265904  0.592551  0.662747  0.464607  0.481088
+
+Generating population epoch 4...
+Epoch fitness mean: 0.703527
+
+Most Fit Echo State Network Metrics...
+Total reservoir nodes: 20
+Total network edges: 1206
+Total network weight: -0.454033
+Total network states: 1
+Training accuracy: 0.814498
+Validation accuracy: 0.82
+Mean edge weight value: -0.00113508
+Network capacity: 5.36871e+006
+Network entropy: 1.07374e+008
+Network memory: 0.693262
+Network sensitivity: 0.498283
+Network connectivity: 0.890258
+Scaling value (alpha): 1.11349
+Node activation distribution:  0.900755  0.287636  0.636401  0.275682  0.863393  0.514735  0.166191  0.438845  0.644381  0.350984  0.504998  0.755019  0.742765  0.699493  0.553099  0.197569  0.677452 0.0963114  0.394022  0.265918
+
+Generating population epoch 5...
+Epoch fitness mean: 0.697834
+
+Most Fit Echo State Network Metrics...
+Total reservoir nodes: 20
+Total network edges: 1117
+Total network weight: 1.6091
+Total network states: 1
+Training accuracy: 0.856164
+Validation accuracy: 0.828
+Mean edge weight value: 0.00402274
+Network capacity: 5.36871e+006
+Network entropy: 1.07374e+008
+Network memory: 0.368061
+Network sensitivity: 0.485475
+Network connectivity: 0.669382
+Scaling value (alpha): 1.05999
+Node activation distribution: 0.385364 0.184147 0.818601 0.912697 0.591814  0.73122 0.693962 0.702107 0.313412  0.30607 0.682779 0.336782 0.143842  0.64076 0.149519 0.276085 0.255938 0.522748 0.415436 0.646213
+
+Generating population epoch 6...
+
+
+
+01-13-2016 12:27:16 - Processing new search...
+
+Search parameters...
+Search population size: 200
+Max number of generations: 50
+New random population: 1%
+Population mutation rate: 0.1%
+Population mutation range: 0.25
+Genetic crossover rate: 70%
+Training samples per ESN: 25%
+
+Generating initial population...
+
+
+
+01-13-2016 12:37:21 - Processing new search...
+
+Search parameters...
+Search population size: 200
+Max number of generations: 50
+New random population: 1%
+Population mutation rate: 0.1%
+Population mutation range: 0.25
+Genetic crossover rate: 70%
+Training samples per ESN: 25%
+
+Generating initial population...

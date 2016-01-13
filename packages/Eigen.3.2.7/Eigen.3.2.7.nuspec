@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Eigen</id>
+    <version>3.2.7</version>
+    <title>Eigen</title>
+    <authors>oneZeroPlus</authors>
+    <owners>oneZeroPlus</owners>
+    <licenseUrl>http://www.mozilla.org/MPL/2.0/</licenseUrl>
+    <projectUrl>http://eigen.tuxfamily.org/</projectUrl>
+    <iconUrl>http://eigen.tuxfamily.org/images/Eigen_Silly_Professor_135x135.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Eigen is a C++ template library for linear algebra: 
+			matrices, vectors, numerical solvers, and related algorithms.</description>
+    <summary>Nuget package for the Eigen library.</summary>
+    <releaseNotes>Nuget package for the Eigen library v3.2.7</releaseNotes>
+    <copyright>Copyright 2013</copyright>
+    <tags>native c++ matrix math eigen onezeroplus nativepackage</tags>
+  </metadata>
+</package>
