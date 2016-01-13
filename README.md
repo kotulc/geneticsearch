@@ -1,4 +1,4 @@
-# esn_genetic_search
+# GeneticSearch
 Performs an evolutionary search of the defined ESN parameter space
 
 This C++ project depends on the included Eigen 3.2.7 library (http://eigen.tuxfamily.org/index.php?title=Main_Page) and successfully builds in Visual Studio Express 2013 on a 64bit Windows 10 machine. All included files and source code are freely available for public and private use.
