@@ -7,6 +7,7 @@ The project was developed from 10/13 to 1/14 and was originally intended as a me
 
 
 Brief overview (retrospective):
+
 This application performs a "Genetic Search" of candidate Echo State Networks, selects the most "fit" networks and then generates offspring from pairs of the selected networks. This is a relatively straight-forward interpretation of an evolutionary approach to finding weights of a network. 
 
 The system generates a random starting population and then proceeds to mutate and combine the candidates to produce the candidates for the next generation. Each new candidate is  initialized with an output layer trained to predict a numeric value with Ridge Regression.
@@ -18,24 +19,28 @@ During the search, a list of defined metrics and other information determined as
 In this implementation, fitness is equal to the networks validation_accuracy value.
 
 
+Metrics
+
 The following metrics are calculated for each candidate:
-Reservoir nodes
-Network edges
-Network weights
-Network states
-Training accuracy
-Validation accuracy
-Network mean activation
-Network capacity
-Network memory
-Network sensitivity
-Network connectivity
+Reservoir nodes,
+Network edges,
+Network weights,
+Network states,
+Training accuracy,
+Validation accuracy,
+Network mean activation,
+Network capacity,
+Network memory,
+Network sensitivity,
+Network connectivity,
 Network alpha
 
 For more information regarding these metrics see: 
 EchoStateNet::CalculateNetMetrics
 EchoStateNet::CalculateNetMemory
 
+
+config.txt
 
 The system reads the search parameters from config.txt, below is a brief description of each:
 
