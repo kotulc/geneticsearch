@@ -1,65 +1,23 @@
-﻿Build started 1/13/2016 12:26:40 PM.
+﻿Build started 1/15/2016 8:07:54 PM.
      1>Project "D:\Documents\Dropbox\Programs\echo_state\GeneticSearch.vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ID:\Documents\Dropbox\Programs\echo_state\packages\Eigen.3.2.7\build\native\../..//build/native/include/ /I"D:\Documents\Visual Studio\Projects\GeneticSearch\eigen" /ZI /nologo /W3 /WX- /Od /Oy- /D HAS_EIGEN /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt GeneticSearch\echo_state_net.cpp GeneticSearch\echo_state_net_weights.cpp GeneticSearch\genetic_search.cpp GeneticSearch\genetic_search_driver.cpp GeneticSearch\stdafx.cpp
-         genetic_search_driver.cpp
-     1>d:\documents\dropbox\programs\echo_state\geneticsearch\genetic_search_driver.cpp(19): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
-     1>d:\documents\dropbox\programs\echo_state\geneticsearch\genetic_search_driver.cpp(24): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
-     1>d:\documents\dropbox\programs\echo_state\geneticsearch\genetic_search_driver.cpp(41): warning C4018: '<' : signed/unsigned mismatch
-     1>d:\documents\dropbox\programs\echo_state\geneticsearch\genetic_search_driver.cpp(43): warning C4101: 'ia' : unreferenced local variable
-     1>d:\documents\dropbox\programs\echo_state\geneticsearch\genetic_search_driver.cpp(132): warning C4018: '<' : signed/unsigned mismatch
-     1>d:\documents\dropbox\programs\echo_state\geneticsearch\genetic_search_driver.cpp(141): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
-     1>d:\documents\dropbox\programs\echo_state\geneticsearch\genetic_search_driver.cpp(142): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
-     1>d:\documents\dropbox\programs\echo_state\geneticsearch\genetic_search_driver.cpp(155): warning C4244: 'initializing' : conversion from 'float' to 'size_t', possible loss of data
-     1>d:\documents\dropbox\programs\echo_state\geneticsearch\genetic_search_driver.cpp(166): warning C4018: '<' : signed/unsigned mismatch
-     1>d:\documents\dropbox\programs\echo_state\geneticsearch\genetic_search_driver.cpp(182): warning C4244: 'initializing' : conversion from 'float' to 'size_t', possible loss of data
-     1>d:\documents\dropbox\programs\echo_state\geneticsearch\genetic_search_driver.cpp(196): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
-     1>d:\documents\dropbox\programs\echo_state\geneticsearch\genetic_search_driver.cpp(269): warning C4800: 'float' : forcing value to bool 'true' or 'false' (performance warning)
-     1>d:\documents\dropbox\programs\echo_state\geneticsearch\genetic_search_driver.cpp(274): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
-     1>d:\documents\dropbox\programs\echo_state\geneticsearch\genetic_search_driver.cpp(279): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
-         genetic_search.cpp
-     1>d:\documents\dropbox\programs\echo_state\geneticsearch\genetic_search.cpp(106): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
-     1>d:\documents\dropbox\programs\echo_state\geneticsearch\genetic_search.cpp(157): warning C4018: '<' : signed/unsigned mismatch
-     1>d:\documents\dropbox\programs\echo_state\geneticsearch\genetic_search.cpp(181): warning C4018: '<' : signed/unsigned mismatch
-     1>d:\documents\dropbox\programs\echo_state\geneticsearch\genetic_search.cpp(230): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\time.inl(112) : see declaration of 'localtime'
-     1>d:\documents\dropbox\programs\echo_state\geneticsearch\genetic_search.cpp(248): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\time.inl(112) : see declaration of 'localtime'
-     1>d:\documents\dropbox\programs\echo_state\geneticsearch\genetic_search.cpp(252): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
-     1>d:\documents\dropbox\programs\echo_state\geneticsearch\genetic_search.cpp(253): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
-     1>d:\documents\dropbox\programs\echo_state\geneticsearch\genetic_search.cpp(254): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
-     1>d:\documents\dropbox\programs\echo_state\geneticsearch\genetic_search.cpp(268): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
-     1>d:\documents\dropbox\programs\echo_state\geneticsearch\genetic_search.cpp(269): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
-     1>d:\documents\dropbox\programs\echo_state\geneticsearch\genetic_search.cpp(270): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
-     1>d:\documents\dropbox\programs\echo_state\geneticsearch\genetic_search.cpp(271): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
-     1>d:\documents\dropbox\programs\echo_state\geneticsearch\genetic_search.cpp(272): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
-     1>d:\documents\dropbox\programs\echo_state\geneticsearch\genetic_search.cpp(273): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
-     1>d:\documents\dropbox\programs\echo_state\geneticsearch\genetic_search.cpp(274): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
-     1>d:\documents\dropbox\programs\echo_state\geneticsearch\genetic_search.cpp(275): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
-         echo_state_net_weights.cpp
-     1>d:\documents\dropbox\programs\echo_state\geneticsearch\echo_state_net_weights.cpp(18): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ID:\Documents\Dropbox\Programs\echo_state\packages\Eigen.3.2.7\build\native\../..//build/native/include/ /I"D:\Documents\Visual Studio\Projects\GeneticSearch\eigen" /ZI /nologo /W3 /WX- /Od /Oy- /D HAS_EIGEN /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt GeneticSearch\echo_state_net.cpp
          echo_state_net.cpp
-     1>d:\documents\dropbox\programs\echo_state\geneticsearch\echo_state_net.cpp(8): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
-     1>d:\documents\dropbox\programs\echo_state\geneticsearch\echo_state_net.cpp(9): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
      1>d:\documents\dropbox\programs\echo_state\geneticsearch\echo_state_net.cpp(10): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
-     1>d:\documents\dropbox\programs\echo_state\geneticsearch\echo_state_net.cpp(20): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
-     1>d:\documents\dropbox\programs\echo_state\geneticsearch\echo_state_net.cpp(39): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
-     1>d:\documents\dropbox\programs\echo_state\geneticsearch\echo_state_net.cpp(143): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
-     1>d:\documents\dropbox\programs\echo_state\geneticsearch\echo_state_net.cpp(220): warning C4800: 'float' : forcing value to bool 'true' or 'false' (performance warning)
-     1>d:\documents\dropbox\programs\echo_state\geneticsearch\echo_state_net.cpp(231): warning C4244: 'argument' : conversion from '__w64 int' to 'const float', possible loss of data
-     1>d:\documents\dropbox\programs\echo_state\geneticsearch\echo_state_net.cpp(239): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
-     1>d:\documents\dropbox\programs\echo_state\geneticsearch\echo_state_net.cpp(241): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
-     1>d:\documents\dropbox\programs\echo_state\geneticsearch\echo_state_net.cpp(290): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>d:\documents\dropbox\programs\echo_state\geneticsearch\echo_state_net.cpp(11): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\documents\dropbox\programs\echo_state\geneticsearch\echo_state_net.cpp(12): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\documents\dropbox\programs\echo_state\geneticsearch\echo_state_net.cpp(26): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>d:\documents\dropbox\programs\echo_state\geneticsearch\echo_state_net.cpp(50): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>d:\documents\dropbox\programs\echo_state\geneticsearch\echo_state_net.cpp(190): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>d:\documents\dropbox\programs\echo_state\geneticsearch\echo_state_net.cpp(293): warning C4800: 'float' : forcing value to bool 'true' or 'false' (performance warning)
+     1>d:\documents\dropbox\programs\echo_state\geneticsearch\echo_state_net.cpp(308): warning C4244: 'argument' : conversion from '__w64 int' to 'const float', possible loss of data
+     1>d:\documents\dropbox\programs\echo_state\geneticsearch\echo_state_net.cpp(316): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\documents\dropbox\programs\echo_state\geneticsearch\echo_state_net.cpp(319): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\documents\dropbox\programs\echo_state\geneticsearch\echo_state_net.cpp(386): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
-     1>d:\documents\dropbox\programs\echo_state\geneticsearch\echo_state_net.cpp(295): warning C4018: '<' : signed/unsigned mismatch
-     1>d:\documents\dropbox\programs\echo_state\geneticsearch\echo_state_net.cpp(296): warning C4018: '<' : signed/unsigned mismatch
-         Generating Code...
-         Compiling...
-         stdafx.cpp
-         Generating Code...
+     1>d:\documents\dropbox\programs\echo_state\geneticsearch\echo_state_net.cpp(392): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\documents\dropbox\programs\echo_state\geneticsearch\echo_state_net.cpp(393): warning C4018: '<' : signed/unsigned mismatch
+     1>cl : Command line warning D9028: minimal rebuild failure, reverting to normal build
        Link:
          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Documents\Dropbox\Programs\echo_state\Debug\GeneticSearch.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Documents\Dropbox\Programs\echo_state\Debug\GeneticSearch.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Documents\Dropbox\Programs\echo_state\Debug\GeneticSearch.lib" /MACHINE:X86 Debug\echo_state_net.obj
          Debug\echo_state_net_weights.obj
@@ -71,4 +29,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:12.84
+Time Elapsed 00:00:07.80
