@@ -6,6 +6,7 @@ This C++ project depends on the included Eigen 3.2.7 library (http://eigen.tuxfa
 The project was developed from 10/13 to 1/14 and was originally intended as a means for exploring several concepts including Evolutionary Search, Echo State Networks, and Reservoir Computing. This project was also useful for practicing coding in C++, creating a  Multi-threaded application, and utilizing Matrix algebra and related concepts. Due to the exploritory nature of this project it was not intended for publication or distribution to a wider audience, lacks helpful documentation, and is in a pre-release but functional state. 
 
 
+
 Brief overview (retrospective):
 
 This application performs a "Genetic Search" of candidate Echo State Networks, selects the most "fit" networks and then generates offspring from pairs of the selected networks. This is a relatively straight-forward interpretation of an evolutionary approach to finding weights of a network. 
@@ -17,6 +18,7 @@ The numeric training data provided is a series of 3x5 black and white images wit
 During the search, a list of defined metrics and other information determined as useful is printed to the log file for later instpection.
 
 In this implementation, fitness is equal to the networks validation_accuracy value.
+
 
 
 Metrics
@@ -38,6 +40,7 @@ Network alpha
 For more information regarding these metrics see: 
 EchoStateNet::CalculateNetMetrics
 EchoStateNet::CalculateNetMemory
+
 
 
 config.txt
